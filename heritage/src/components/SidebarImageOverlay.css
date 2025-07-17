@@ -1,0 +1,83 @@
+
+@import "tailwindcss";
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 280px;
+  background-color: #dddddd62;
+  color: rgba(255, 255, 255, 0.352);
+  overflow-y: auto;
+  box-shadow: 2px 0 8px rgba(255, 255, 255, 0.177);
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+  z-index: 1000;
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+
+.sidebar.closed {
+  pointer-events: none;
+}
+
+.sidebar::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.sidebar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Fixed title */
+.sidebar-header {
+  position: sticky;
+  top: 0;
+  background-color: #dddddd62; /* Same as sidebar background to hide content behind */
+  z-index: 10;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  padding: 0 5px;
+
+  /* Add shadow/border to make separation more visible */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  align-items: center;
+}
+
+/* Image styling */
+.image-stack {
+  padding: 0 10px 10px 10px; /* Removed top padding since header now has margin */
+}
+
+.img-wrapper {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.img-wrapper img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 4px 8px;
+  border-radius: 4px;
+  color: white;
+  font-size: 0.85rem;
+}

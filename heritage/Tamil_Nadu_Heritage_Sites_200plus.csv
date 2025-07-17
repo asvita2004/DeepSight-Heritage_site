@@ -1,0 +1,198 @@
+﻿Name,Town,District,Genre
+Andal Temple,Srivilliputhur,Virudhunagar,Temple
+Meenakshi Amman Temple,Madurai,Madurai,Temple
+Thirumalai Nayak Palace,Madurai,Madurai,Palace
+Ramanathaswamy Temple,Rameswaram,Ramanathapuram,Temple
+Pamban Bridge,Rameswaram,Ramanathapuram,Bridge
+Vivekananda Rock Memorial,Kanyakumari,Kanyakumari,Memorial
+Thiruvalluvar Statue,Kanyakumari,Kanyakumari,Statue
+Suchindram Thanumalayan Temple,Suchindram,Kanyakumari,Temple
+Kalakkadu Wildlife Sanctuary,Kalakkadu,Tirunelveli,Wildlife
+Nellaiappar Temple,Tirunelveli,Tirunelveli,Temple
+Courtallam Falls,Courtallam,Tirunelveli,Waterfalls
+Manapad Holy Cross Church,Manapad,Thoothukudi,Church
+Kalugumalai Jain Beds,Kalugumalai,Thoothukudi,Heritage (Jain cave)
+Brihadeeswarar Temple (Big Temple),Thanjavur,Thanjavur,Temple
+Airavatesvara Temple,Darasuram,Thanjavur,Temple
+Gangaikonda Cholapuram Temple,Gangaikonda Cholapuram,Ariyalur,Temple
+Punnainallur Mariamman Temple,Thanjavur,Thanjavur,Temple
+Thanjavur Maratha Palace,Thanjavur,Thanjavur,Palace
+Rock Fort (Ucchi Pillayar Temple),Tiruchirappalli,Tiruchirappalli,Fort & Temple
+Sri Ranganathaswamy Temple (Srirangam),Srirangam,Tiruchirappalli,Temple
+Jambukeswarar Temple,Tiruvanaikaval,Tiruchirappalli,Temple
+Vekkali Amman Temple,Woraiyur,Tiruchirappalli,Temple
+Pachamalai Hills,Thuraiyur,Tiruchirappalli,Nature
+Chidambaram Nataraja Temple,Chidambaram,Cuddalore,Temple
+Pichavaram Mangrove Forest,Chidambaram,Cuddalore,Nature
+Mailam Murugan Temple,Mailam,Villupuram,Temple
+Gingee Fort,Gingee,Villupuram,Fort
+Kamakshi Amman Temple,Kanchipuram,Kanchipuram,Temple
+Varadharaja Perumal Temple,Kanchipuram,Kanchipuram,Temple
+Ekambareswarar Temple,Kanchipuram,Kanchipuram,Temple
+Shore Temple,Mahabalipuram,Kanchipuram,Temple
+Arjuna's Penance,Mahabalipuram,Kanchipuram,Heritage Rock-cut
+Pancha Rathas,Mahabalipuram,Kanchipuram,Monolithic Temples
+Krishna's Butter Ball,Mahabalipuram,Kanchipuram,Natural Rock
+Crocodile Bank,Vadanemmeli,Chengalpattu,Wildlife
+Vedanthangal Bird Sanctuary,Vedanthangal,Chengalpattu,Wildlife
+Vellore Fort,Vellore,Vellore,Fort
+Sripuram Golden Temple,Vellore,Vellore,Temple
+Yelagiri Hills,Yelagiri,Vellore,Hill Station
+Pulicat Lake,Pulicat,Tiruvallur,Lake
+San Thome Basilica,Chennai,Chennai,Church
+Kapaleeswarar Temple,Mylapore,Chennai,Temple
+Fort St. George,Chennai,Chennai,Fort
+Government Museum,Egmore,Chennai,Museum
+Marina Beach,Chennai,Chennai,Beach
+Guindy National Park,Guindy,Chennai,Wildlife
+DakshinaChitra Museum,Muttukadu,Chengalpattu,Museum
+Vellore Fort Extension 1,Vellore,Kanchipuram,Fort
+Vivekananda Rock Memorial Extension 2,Kanyakumari,Ramanathapuram,Nature
+Brihadeeswarar Temple (Big Temple) Extension 3,Thanjavur,Virudhunagar,Museum
+Varadharaja Perumal Temple Extension 4,Kanchipuram,Ramanathapuram,Museum
+Pancha Rathas Extension 5,Mahabalipuram,Tiruchirappalli,Wildlife
+Kalakkadu Wildlife Sanctuary Extension 6,Kalakkadu,Madurai,Church
+Thanjavur Maratha Palace Extension 7,Thanjavur,Kanchipuram,Nature
+Pancha Rathas Extension 8,Mahabalipuram,Virudhunagar,Monument
+Andal Temple Extension 9,Srivilliputhur,Vellore,Church
+Varadharaja Perumal Temple Extension 10,Kanchipuram,Tiruvallur,Wildlife
+Kalakkadu Wildlife Sanctuary Extension 11,Kalakkadu,Madurai,Church
+Sri Ranganathaswamy Temple (Srirangam) Extension 12,Srirangam,Ariyalur,Lake
+Suchindram Thanumalayan Temple Extension 13,Suchindram,Villupuram,Beach
+Kapaleeswarar Temple Extension 14,Mylapore,Chennai,Palace
+Kalugumalai Jain Beds Extension 15,Kalugumalai,Madurai,Church
+Vekkali Amman Temple Extension 16,Woraiyur,Virudhunagar,Church
+Yelagiri Hills Extension 17,Yelagiri,Chennai,Wildlife
+Punnainallur Mariamman Temple Extension 18,Thanjavur,Virudhunagar,Fort
+Pancha Rathas Extension 19,Mahabalipuram,Kanchipuram,Nature
+San Thome Basilica Extension 20,Chennai,Villupuram,Heritage
+Arjuna's Penance Extension 21,Mahabalipuram,Cuddalore,Lake
+Brihadeeswarar Temple (Big Temple) Extension 22,Thanjavur,Chennai,Monument
+Pachamalai Hills Extension 23,Thuraiyur,Ariyalur,Beach
+Shore Temple Extension 24,Mahabalipuram,Villupuram,Monument
+Vekkali Amman Temple Extension 25,Woraiyur,Thanjavur,Palace
+Kalakkadu Wildlife Sanctuary Extension 26,Kalakkadu,Kanchipuram,Beach
+Ramanathaswamy Temple Extension 27,Rameswaram,Madurai,Church
+Suchindram Thanumalayan Temple Extension 28,Suchindram,Madurai,Palace
+Jambukeswarar Temple Extension 29,Tiruvanaikaval,Cuddalore,Church
+Gangaikonda Cholapuram Temple Extension 30,Gangaikonda Cholapuram,Villupuram,Hill Station
+Thiruvalluvar Statue Extension 31,Kanyakumari,Virudhunagar,Palace
+Fort St. George Extension 32,Chennai,Thanjavur,Palace
+Chidambaram Nataraja Temple Extension 33,Chidambaram,Virudhunagar,Beach
+Jambukeswarar Temple Extension 34,Tiruvanaikaval,Chengalpattu,Monument
+Ekambareswarar Temple Extension 35,Kanchipuram,Tiruvallur,Church
+Pachamalai Hills Extension 36,Thuraiyur,Chennai,Monument
+Vekkali Amman Temple Extension 37,Woraiyur,Virudhunagar,Lake
+Andal Temple Extension 38,Srivilliputhur,Chengalpattu,Heritage
+Sri Ranganathaswamy Temple (Srirangam) Extension 39,Srirangam,Villupuram,Church
+Sripuram Golden Temple Extension 40,Vellore,Madurai,Heritage
+Krishna's Butter Ball Extension 41,Mahabalipuram,Kanyakumari,Heritage
+Mailam Murugan Temple Extension 42,Mailam,Tiruchirappalli,Beach
+Thiruvalluvar Statue Extension 43,Kanyakumari,Vellore,Palace
+Andal Temple Extension 44,Srivilliputhur,Tiruvallur,Fort
+Sri Ranganathaswamy Temple (Srirangam) Extension 45,Srirangam,Chengalpattu,Wildlife
+Nellaiappar Temple Extension 46,Tirunelveli,Villupuram,Museum
+Ramanathaswamy Temple Extension 47,Rameswaram,Madurai,Nature
+DakshinaChitra Museum Extension 48,Muttukadu,Kanyakumari,Monument
+Crocodile Bank Extension 49,Vadanemmeli,Tirunelveli,Monument
+Pulicat Lake Extension 50,Pulicat,Tirunelveli,Nature
+Suchindram Thanumalayan Temple Extension 51,Suchindram,Ramanathapuram,Fort
+Vellore Fort Extension 52,Vellore,Cuddalore,Fort
+Gingee Fort Extension 53,Gingee,Kanyakumari,Museum
+Pachamalai Hills Extension 54,Thuraiyur,Virudhunagar,Temple
+Thiruvalluvar Statue Extension 55,Kanyakumari,Cuddalore,Lake
+Courtallam Falls Extension 56,Courtallam,Chennai,Hill Station
+Thiruvalluvar Statue Extension 57,Kanyakumari,Virudhunagar,Monument
+Thiruvalluvar Statue Extension 58,Kanyakumari,Kanchipuram,Palace
+Sri Ranganathaswamy Temple (Srirangam) Extension 59,Srirangam,Tiruchirappalli,Temple
+Vedanthangal Bird Sanctuary Extension 60,Vedanthangal,Tiruvallur,Nature
+Pamban Bridge Extension 61,Rameswaram,Tiruvallur,Lake
+Jambukeswarar Temple Extension 62,Tiruvanaikaval,Tiruchirappalli,Hill Station
+Vekkali Amman Temple Extension 63,Woraiyur,Tiruvallur,Palace
+Fort St. George Extension 64,Chennai,Madurai,Hill Station
+Guindy National Park Extension 65,Guindy,Kanyakumari,Fort
+Mailam Murugan Temple Extension 66,Mailam,Kanyakumari,Monument
+Pachamalai Hills Extension 67,Thuraiyur,Tiruvallur,Palace
+Manapad Holy Cross Church Extension 68,Manapad,Vellore,Monument
+Mailam Murugan Temple Extension 69,Mailam,Tiruvallur,Palace
+Vivekananda Rock Memorial Extension 70,Kanyakumari,Tiruvallur,Palace
+Ramanathaswamy Temple Extension 71,Rameswaram,Villupuram,Fort
+Kalugumalai Jain Beds Extension 72,Kalugumalai,Ramanathapuram,Museum
+Suchindram Thanumalayan Temple Extension 73,Suchindram,Kanchipuram,Monument
+DakshinaChitra Museum Extension 74,Muttukadu,Villupuram,Nature
+Kapaleeswarar Temple Extension 75,Mylapore,Virudhunagar,Fort
+Thirumalai Nayak Palace Extension 76,Madurai,Chennai,Lake
+Krishna's Butter Ball Extension 77,Mahabalipuram,Chennai,Lake
+Manapad Holy Cross Church Extension 78,Manapad,Thanjavur,Museum
+Punnainallur Mariamman Temple Extension 79,Thanjavur,Vellore,Church
+Vedanthangal Bird Sanctuary Extension 80,Vedanthangal,Tiruvallur,Wildlife
+Pulicat Lake Extension 81,Pulicat,Ramanathapuram,Temple
+Kapaleeswarar Temple Extension 82,Mylapore,Ramanathapuram,Museum
+Meenakshi Amman Temple Extension 83,Madurai,Kanyakumari,Lake
+Vekkali Amman Temple Extension 84,Woraiyur,Madurai,Lake
+Thiruvalluvar Statue Extension 85,Kanyakumari,Tirunelveli,Palace
+Meenakshi Amman Temple Extension 86,Madurai,Madurai,Beach
+DakshinaChitra Museum Extension 87,Muttukadu,Villupuram,Fort
+Arjuna's Penance Extension 88,Mahabalipuram,Kanyakumari,Wildlife
+Pichavaram Mangrove Forest Extension 89,Chidambaram,Vellore,Palace
+Crocodile Bank Extension 90,Vadanemmeli,Tiruvallur,Museum
+Courtallam Falls Extension 91,Courtallam,Tirunelveli,Monument
+Fort St. George Extension 92,Chennai,Villupuram,Museum
+Gangaikonda Cholapuram Temple Extension 93,Gangaikonda Cholapuram,Thoothukudi,Museum
+Ekambareswarar Temple Extension 94,Kanchipuram,Kanchipuram,Church
+Vekkali Amman Temple Extension 95,Woraiyur,Ariyalur,Lake
+Crocodile Bank Extension 96,Vadanemmeli,Tirunelveli,Fort
+Pamban Bridge Extension 97,Rameswaram,Thanjavur,Museum
+Gingee Fort Extension 98,Gingee,Villupuram,Museum
+Rock Fort (Ucchi Pillayar Temple) Extension 99,Tiruchirappalli,Tiruchirappalli,Heritage
+Suchindram Thanumalayan Temple Extension 100,Suchindram,Cuddalore,Temple
+Vivekananda Rock Memorial Extension 101,Kanyakumari,Tiruvallur,Beach
+Pamban Bridge Extension 102,Rameswaram,Tiruchirappalli,Nature
+Ekambareswarar Temple Extension 103,Kanchipuram,Ariyalur,Wildlife
+Kalugumalai Jain Beds Extension 104,Kalugumalai,Virudhunagar,Wildlife
+Airavatesvara Temple Extension 105,Darasuram,Tirunelveli,Temple
+Kamakshi Amman Temple Extension 106,Kanchipuram,Villupuram,Lake
+Gingee Fort Extension 107,Gingee,Kanyakumari,Heritage
+Shore Temple Extension 108,Mahabalipuram,Villupuram,Heritage
+Government Museum Extension 109,Egmore,Tiruchirappalli,Fort
+Kalugumalai Jain Beds Extension 110,Kalugumalai,Kanchipuram,Wildlife
+Sripuram Golden Temple Extension 111,Vellore,Villupuram,Nature
+Kalakkadu Wildlife Sanctuary Extension 112,Kalakkadu,Madurai,Lake
+Sripuram Golden Temple Extension 113,Vellore,Cuddalore,Church
+Pulicat Lake Extension 114,Pulicat,Madurai,Lake
+Pichavaram Mangrove Forest Extension 115,Chidambaram,Tiruchirappalli,Lake
+Vekkali Amman Temple Extension 116,Woraiyur,Thoothukudi,Heritage
+Thirumalai Nayak Palace Extension 117,Madurai,Chengalpattu,Heritage
+Kalakkadu Wildlife Sanctuary Extension 118,Kalakkadu,Cuddalore,Museum
+Sri Ranganathaswamy Temple (Srirangam) Extension 119,Srirangam,Tiruvallur,Wildlife
+San Thome Basilica Extension 120,Chennai,Tiruvallur,Museum
+Vivekananda Rock Memorial Extension 121,Kanyakumari,Tirunelveli,Heritage
+Nellaiappar Temple Extension 122,Tirunelveli,Ariyalur,Monument
+Thiruvalluvar Statue Extension 123,Kanyakumari,Virudhunagar,Wildlife
+Meenakshi Amman Temple Extension 124,Madurai,Tiruchirappalli,Temple
+Brihadeeswarar Temple (Big Temple) Extension 125,Thanjavur,Thanjavur,Fort
+Government Museum Extension 126,Egmore,Chennai,Wildlife
+Shore Temple Extension 127,Mahabalipuram,Chennai,Nature
+Thiruvalluvar Statue Extension 128,Kanyakumari,Vellore,Wildlife
+Ramanathaswamy Temple Extension 129,Rameswaram,Ariyalur,Wildlife
+Jambukeswarar Temple Extension 130,Tiruvanaikaval,Kanchipuram,Nature
+Chidambaram Nataraja Temple Extension 131,Chidambaram,Tiruchirappalli,Palace
+Pichavaram Mangrove Forest Extension 132,Chidambaram,Chennai,Monument
+Pichavaram Mangrove Forest Extension 133,Chidambaram,Thoothukudi,Lake
+Marina Beach Extension 134,Chennai,Tirunelveli,Heritage
+Guindy National Park Extension 135,Guindy,Chennai,Palace
+Pichavaram Mangrove Forest Extension 136,Chidambaram,Tirunelveli,Hill Station
+Sri Ranganathaswamy Temple (Srirangam) Extension 137,Srirangam,Kanchipuram,Monument
+Sri Ranganathaswamy Temple (Srirangam) Extension 138,Srirangam,Kanyakumari,Beach
+Yelagiri Hills Extension 139,Yelagiri,Kanchipuram,Hill Station
+Vekkali Amman Temple Extension 140,Woraiyur,Chennai,Monument
+Vekkali Amman Temple Extension 141,Woraiyur,Thanjavur,Wildlife
+San Thome Basilica Extension 142,Chennai,Kanchipuram,Heritage
+Kapaleeswarar Temple Extension 143,Mylapore,Chengalpattu,Palace
+Kalakkadu Wildlife Sanctuary Extension 144,Kalakkadu,Chennai,Church
+Yelagiri Hills Extension 145,Yelagiri,Vellore,Wildlife
+Varadharaja Perumal Temple Extension 146,Kanchipuram,Thoothukudi,Wildlife
+Kamakshi Amman Temple Extension 147,Kanchipuram,Tiruvallur,Museum
+Varadharaja Perumal Temple Extension 148,Kanchipuram,Vellore,Lake
+Airavatesvara Temple Extension 149,Darasuram,Tirunelveli,Church
+Kalugumalai Jain Beds Extension 150,Kalugumalai,Tirunelveli,Hill Station
